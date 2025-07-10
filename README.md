@@ -22,6 +22,10 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## Citation Linking
 
+
+https://github.com/user-attachments/assets/16981b8a-51d4-446b-999f-022e20e3182d
+
+
 ### 1. Citation Display
 
 Citations appear as interactive cards below the answer:
