@@ -20,7 +20,7 @@ type Paragraph = {
     text: string;
 };
 
-export const Home= () => {
+const Home= () => {
     const [inputText, setInputText] = useState<string>('');
     const [isLoading, setIsLoading] = useState<boolean>(false);
     const [messages, setMessages] = useState<Message[]>([]);
