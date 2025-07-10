@@ -20,7 +20,7 @@ type Paragraph = {
     text: string;
 };
 
-export const App = () => {
+export const Home= () => {
     const [inputText, setInputText] = useState<string>('');
     const [isLoading, setIsLoading] = useState<boolean>(false);
     const [messages, setMessages] = useState<Message[]>([]);
@@ -231,4 +231,4 @@ export const App = () => {
         </div>
     );
 }
-export default App;
+export default Home;
